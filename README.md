@@ -22,11 +22,11 @@ Replace `'https://example.com/sitemap.xml'` in the script with your actual sitem
 
 Run the script using the following command:
 
-node script.js
+node index.js
 
 Optionally, you can pass the `--delete` argument if you wish to notify Google that the URLs have been deleted:
 
-node script.js --delete
+node index.js --delete
 
 After the script runs, you can check the `log.txt` file to see which URLs have been processed.
 
