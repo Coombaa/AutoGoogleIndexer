@@ -1,6 +1,6 @@
 # Google Search Console URL Submission Script
 
-This Node.js script is used to fetch URLs from a sitemap, process and submit them to the Google Search Console's Indexing API. The script will process the first 5000 URLs that have not been previously processed and log the processed URLs to a text file.
+This Node.js script is used to fetch URLs from a sitemap, process and submit them to the Google Search Console's Indexing API. The script will process the first 200 URLs that have not been previously processed and log the processed URLs to a text file.
 
 ## Prerequisites
 
